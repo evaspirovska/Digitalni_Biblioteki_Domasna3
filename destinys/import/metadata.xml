@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+	<FileSet>
+		<FileName>beyonce\.jpg</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Beyonce</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">Front singer</Metadata>
+			<Metadata mode="accumulate" name="dc.Format">jpg</Metadata>
+			<Metadata mode="accumulate" name="dc.Type">image</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">04.05.2022</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>group\.jpg</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Destiny's Child</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">Music group</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">04.05.2022</Metadata>
+			<Metadata mode="accumulate" name="dc.Type">image</Metadata>
+			<Metadata mode="accumulate" name="dc.Format">jpg</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>kelly\.jpg</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Kelly</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">Singer</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">04.05.2022</Metadata>
+			<Metadata mode="accumulate" name="dc.Type">image</Metadata>
+			<Metadata mode="accumulate" name="dc.Format">jpg</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>michelle\.jpg</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Michelle</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">Singer</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">04.05.2022</Metadata>
+			<Metadata mode="accumulate" name="dc.Type">image</Metadata>
+			<Metadata mode="accumulate" name="dc.Format">jpg</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>destiny_s_child_independent_women_pt_1_official_video_-1971746414330572210\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Independent women</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">Song in audio format</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">04.05.2022</Metadata>
+			<Metadata mode="accumulate" name="dc.Type">audio</Metadata>
+			<Metadata mode="accumulate" name="dc.Format">mp3</Metadata>
+			<Metadata mode="accumulate" name="dc.Language">English</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>destiny_s_child_say_my_name_official_video_-4610547055409742150\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Say my name</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">Aduio song</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">04.05.2022</Metadata>
+			<Metadata mode="accumulate" name="dc.Type">audio</Metadata>
+			<Metadata mode="accumulate" name="dc.Format">mp3</Metadata>
+			<Metadata mode="accumulate" name="dc.Language">English</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>destiny_s_child_survivor_official_music_video_ft_da_brat_2994194818762377165\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Survior</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">Aduio song from Destiny's child</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">04.05.2022</Metadata>
+			<Metadata mode="accumulate" name="dc.Format">mp3</Metadata>
+			<Metadata mode="accumulate" name="dc.Type">audio</Metadata>
+			<Metadata mode="accumulate" name="dc.Language">English</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>X2Download\.com-Destiny's Child - Bills, Bills, Bills-\(240p\)\.mp4</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Bills</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">Song from the group Destiny's child in video format</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">04.05.2022</Metadata>
+			<Metadata mode="accumulate" name="dc.Type">video</Metadata>
+			<Metadata mode="accumulate" name="dc.Format">mp4</Metadata>
+			<Metadata mode="accumulate" name="dc.Language">English</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>X2Download\.com-Destiny's Child - Lose My Breath \(Video\)-\(144p\)\.mp4</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Lose my breath</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">Video song</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">04.05.2022</Metadata>
+			<Metadata mode="accumulate" name="dc.Type">video</Metadata>
+			<Metadata mode="accumulate" name="dc.Format">mp4</Metadata>
+			<Metadata mode="accumulate" name="dc.Language">English</Metadata>
+		</Description>
+	</FileSet>
+</DirectoryMetadata>

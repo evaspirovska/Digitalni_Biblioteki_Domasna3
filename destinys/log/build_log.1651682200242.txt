@@ -1,0 +1,23 @@
+s
+************** Import  Started **************
+The file metadata.xml is being processed by MetadataXMLPlugin.
+The file X2Download.com-Destiny's Child - Bills, Bills, Bills-(240p).mp4 was not recognised by any plugin.
+The file X2Download.com-Destiny's Child - Lose My Breath (Video)-(144p).mp4 was not recognised by any plugin.
+The file beyonce.jpg is being processed by ImagePlugin.
+The file destiny_s_child_independent_women_pt_1_official_video_-1971746414330572210.mp3 is being processed by MP3Plugin.
+The file destiny_s_child_say_my_name_official_video_-4610547055409742150.mp3 is being processed by MP3Plugin.
+The file destiny_s_child_survivor_official_music_video_ft_da_brat_2994194818762377165.mp3 is being processed by MP3Plugin.
+The file group.jpg is being processed by ImagePlugin.
+The file kelly.jpg is being processed by ImagePlugin.
+The file michelle.jpg is being processed by ImagePlugin.
+************** Import Finished **************
+9 documents were considered for processing:
+    7 documents were processed and included in the collection.
+    2 were unrecognised.
+
+************** Build  Started **************
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Source;dc.Description;dc.Date,dc.Language;...
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Source;dc.Description;dc.Date,dc.Language;...
+Creating information database...
+Creating auxiliary files and tidying up...
+************** Build Finished **************

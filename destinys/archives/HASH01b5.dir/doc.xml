@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\ZGVzdGlueV9zX2NoaWxkX3N1cnZpdm9yX29mZmljaWFsX211c2ljX3ZpZGVvX2Z0X2RhX2JyYXRfMjk5NDE5NDgxODc2MjM3NzE2NQ==.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">4239471</Metadata>
+    <Metadata name="Source">destiny_s_child_survivor_official_music_video_ft_da_brat_2994194818762377165.mp3</Metadata>
+    <Metadata name="SourceFile">ZGVzdGlueV9zX2NoaWxkX3N1cnZpdm9yX29mZmljaWFsX211c2ljX3ZpZGVvX2Z0X2RhX2JyYXRfMjk5NDE5NDgxODc2MjM3NzE2NQ==.mp3</Metadata>
+    <Metadata name="mp3">destiny_s_child_survivor_official_music_video_ft_da_brat_2994194818762377165</Metadata>
+    <Metadata name="srcurl">ZGVzdGlueV9zX2NoaWxkX3N1cnZpdm9yX29mZmljaWFsX211c2ljX3ZpZGVvX2Z0X2RhX2JyYXRfMjk5NDE5NDgxODc2MjM3NzE2NQ==.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">ZGVzdGlueV9zX2NoaWxkX3N1cnZpdm9yX29mZmljaWFsX211c2ljX3ZpZGVvX2Z0X2RhX2JyYXRfMjk5NDE5NDgxODc2MjM3NzE2NQ==.mp3</Metadata>
+    <Metadata name="srclinkFile">ZGVzdGlueV9zX2NoaWxkX3N1cnZpdm9yX29mZmljaWFsX211c2ljX3ZpZGVvX2Z0X2RhX2JyYXRfMjk5NDE5NDgxODc2MjM3NzE2NQ==.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Date">04.05.2022</Metadata>
+    <Metadata name="dc.Description">Aduio song from Destiny's child</Metadata>
+    <Metadata name="dc.Format">mp3</Metadata>
+    <Metadata name="dc.Language">English</Metadata>
+    <Metadata name="dc.Title">Survior</Metadata>
+    <Metadata name="dc.Type">audio</Metadata>
+    <Metadata name="Title">destiny s child survivor official music video ft da brat 2994194818762377165</Metadata>
+    <Metadata name="Identifier">HASH01b5f79632acaf6e2bd8fae1</Metadata>
+    <Metadata name="lastmodified">1651680628</Metadata>
+    <Metadata name="lastmodifieddate">20220504</Metadata>
+    <Metadata name="oailastmodified">1651682204</Metadata>
+    <Metadata name="oailastmodifieddate">20220504</Metadata>
+    <Metadata name="assocfilepath">HASH01b5.dir</Metadata>
+    <Metadata name="gsdlassocfile">ZGVzdGlueV9zX2NoaWxkX3N1cnZpdm9yX29mZmljaWFsX211c2ljX3ZpZGVvX2Z0X2RhX2JyYXRfMjk5NDE5NDgxODc2MjM3NzE2NQ==.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\ZGVzdGlueV9zX2NoaWxkX3NheV9teV9uYW1lX29mZmljaWFsX3ZpZGVvXy00NjEwNTQ3MDU1NDA5NzQyMTUw.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">3825488</Metadata>
+    <Metadata name="Source">destiny_s_child_say_my_name_official_video_-4610547055409742150.mp3</Metadata>
+    <Metadata name="SourceFile">ZGVzdGlueV9zX2NoaWxkX3NheV9teV9uYW1lX29mZmljaWFsX3ZpZGVvXy00NjEwNTQ3MDU1NDA5NzQyMTUw.mp3</Metadata>
+    <Metadata name="mp3">destiny_s_child_say_my_name_official_video_-4610547055409742150</Metadata>
+    <Metadata name="srcurl">ZGVzdGlueV9zX2NoaWxkX3NheV9teV9uYW1lX29mZmljaWFsX3ZpZGVvXy00NjEwNTQ3MDU1NDA5NzQyMTUw.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">ZGVzdGlueV9zX2NoaWxkX3NheV9teV9uYW1lX29mZmljaWFsX3ZpZGVvXy00NjEwNTQ3MDU1NDA5NzQyMTUw.mp3</Metadata>
+    <Metadata name="srclinkFile">ZGVzdGlueV9zX2NoaWxkX3NheV9teV9uYW1lX29mZmljaWFsX3ZpZGVvXy00NjEwNTQ3MDU1NDA5NzQyMTUw.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Date">04.05.2022</Metadata>
+    <Metadata name="dc.Description">Aduio song</Metadata>
+    <Metadata name="dc.Format">mp3</Metadata>
+    <Metadata name="dc.Language">English</Metadata>
+    <Metadata name="dc.Title">Say my name</Metadata>
+    <Metadata name="dc.Type">audio</Metadata>
+    <Metadata name="Title">destiny s child say my name official video -4610547055409742150</Metadata>
+    <Metadata name="Identifier">HASH7fb0077045c0d1ceaab0d9</Metadata>
+    <Metadata name="lastmodified">1651680625</Metadata>
+    <Metadata name="lastmodifieddate">20220504</Metadata>
+    <Metadata name="oailastmodified">1651682204</Metadata>
+    <Metadata name="oailastmodifieddate">20220504</Metadata>
+    <Metadata name="assocfilepath">HASH7fb0.dir</Metadata>
+    <Metadata name="gsdlassocfile">ZGVzdGlueV9zX2NoaWxkX3NheV9teV9uYW1lX29mZmljaWFsX3ZpZGVvXy00NjEwNTQ3MDU1NDA5NzQyMTUw.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

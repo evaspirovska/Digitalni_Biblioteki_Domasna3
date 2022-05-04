@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\beyonce.jpg</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">ImagePlugin</Metadata>
+    <Metadata name="Image">beyonce.jpg</Metadata>
+    <Metadata name="OrigSource">beyonce.jpg</Metadata>
+    <Metadata name="Source">beyonce.jpg</Metadata>
+    <Metadata name="SourceFile">beyonce.jpg</Metadata>
+    <Metadata name="FileFormat">jpeg</Metadata>
+    <Metadata name="FileSize">272035</Metadata>
+    <Metadata name="ImageType">JPEG</Metadata>
+    <Metadata name="ImageWidth">1080</Metadata>
+    <Metadata name="ImageHeight">1440</Metadata>
+    <Metadata name="ImageSize">266KB</Metadata>
+    <Metadata name="srclink_file">beyonce.jpg</Metadata>
+    <Metadata name="srclinkFile">beyonce.jpg</Metadata>
+    <Metadata name="srcicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot; width=&quot;[ImageWidth]&quot; height=&quot;[ImageHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbType">gif</Metadata>
+    <Metadata name="Thumb">beyonce_thumb.gif</Metadata>
+    <Metadata name="thumbicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Thumb]&quot; alt=&quot;[Thumb]&quot; width=&quot;[ThumbWidth]&quot; height=&quot;[ThumbHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbWidth">75</Metadata>
+    <Metadata name="ThumbHeight">100</Metadata>
+    <Metadata name="ScreenType">jpeg</Metadata>
+    <Metadata name="Screen">beyonce_screen.jpeg</Metadata>
+    <Metadata name="screenicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Screen]&quot; width=[ScreenWidth] height=[ScreenHeight]&gt;</Metadata>
+    <Metadata name="ScreenWidth">375</Metadata>
+    <Metadata name="ScreenHeight">500</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Date">04.05.2022</Metadata>
+    <Metadata name="dc.Description">Front singer</Metadata>
+    <Metadata name="dc.Format">jpg</Metadata>
+    <Metadata name="dc.Title">Beyonce</Metadata>
+    <Metadata name="dc.Type">image</Metadata>
+    <Metadata name="Title">beyonce</Metadata>
+    <Metadata name="Identifier">HASHa2134181e87dc208f6e474</Metadata>
+    <Metadata name="lastmodified">1651680611</Metadata>
+    <Metadata name="lastmodifieddate">20220504</Metadata>
+    <Metadata name="oailastmodified">1651682203</Metadata>
+    <Metadata name="oailastmodifieddate">20220504</Metadata>
+    <Metadata name="assocfilepath">HASHa213.dir</Metadata>
+    <Metadata name="gsdlassocfile">beyonce.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">beyonce_thumb.gif:image/gif:</Metadata>
+    <Metadata name="gsdlassocfile">beyonce_screen.jpeg:image/jpeg:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

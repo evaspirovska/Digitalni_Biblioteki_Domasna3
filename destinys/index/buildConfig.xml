@@ -1,0 +1,54 @@
+<buildConfig xmlns:gsf="http://www.greenstone.org/greenstone3/schema/ConfigFormat">
+<metadataList>
+<metadata name="numDocs">7</metadata>
+<metadata name="buildType">lucene</metadata>
+<metadata name="indexStem">destinys</metadata>
+<metadata name="infodbType">jdbm</metadata>
+<metadata name="buildDate">1651682213</metadata>
+<metadata name="earliestDatestamp">1651682202</metadata>
+</metadataList>
+<serviceRackList>
+<serviceRack name="GS2LuceneSearch">
+<indexStem name="destinys" />
+<databaseType name="jdbm" />
+<indexList>
+<index name="text" shortname="TX" />
+<index name="dc.Title,ex.dc.Title,Title" shortname="TI" />
+<index name="Source" shortname="SO" />
+<index name="dc.Description" shortname="DE" />
+<index name="dc.Date,dc.Language" shortname="DA" />
+</indexList>
+<defaultIndex shortname="TX" />
+<levelList>
+<level name="document" shortname="Doc" />
+<level name="section" shortname="Sec" />
+</levelList>
+<defaultLevel shortname="Doc" />
+<defaultDBLevel shortname="Sec" />
+<sortList>
+<sort name="rank" shortname="rank" />
+<sort name="none" shortname="none" />
+</sortList>
+<defaultSort shortname="rank" />
+<searchTypeList>
+<searchType name="plain" />
+<searchType name="form" />
+</searchTypeList>
+</serviceRack>
+<serviceRack name="GS2LuceneRetrieve">
+<indexStem name="destinys" />
+<defaultLevel shortname="Sec" />
+<databaseType name="jdbm" />
+</serviceRack>
+<serviceRack name="GS2Browse">
+<indexStem name="destinys" />
+<databaseType name="jdbm" />
+<classifierList>
+<classifier name="CL1" content="dc.Title,Title" />
+<classifier name="CL2" content="Source" />
+<classifier name="CL3" content="dc.Title" />
+<classifier name="CL4" content="Date" />
+</classifierList>
+</serviceRack>
+</serviceRackList>
+</buildConfig>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\ZGVzdGlueV9zX2NoaWxkX2luZGVwZW5kZW50X3dvbWVuX3B0XzFfb2ZmaWNpYWxfdmlkZW9fLTE5NzE3NDY0MTQzMzA1NzIyMTA=.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">3714179</Metadata>
+    <Metadata name="Source">destiny_s_child_independent_women_pt_1_official_video_-1971746414330572210.mp3</Metadata>
+    <Metadata name="SourceFile">ZGVzdGlueV9zX2NoaWxkX2luZGVwZW5kZW50X3dvbWVuX3B0XzFfb2ZmaWNpYWxfdmlkZW9fLTE5NzE3NDY0MTQzMzA1NzIyMTA=.mp3</Metadata>
+    <Metadata name="mp3">destiny_s_child_independent_women_pt_1_official_video_-1971746414330572210</Metadata>
+    <Metadata name="srcurl">ZGVzdGlueV9zX2NoaWxkX2luZGVwZW5kZW50X3dvbWVuX3B0XzFfb2ZmaWNpYWxfdmlkZW9fLTE5NzE3NDY0MTQzMzA1NzIyMTA=.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">ZGVzdGlueV9zX2NoaWxkX2luZGVwZW5kZW50X3dvbWVuX3B0XzFfb2ZmaWNpYWxfdmlkZW9fLTE5NzE3NDY0MTQzMzA1NzIyMTA=.mp3</Metadata>
+    <Metadata name="srclinkFile">ZGVzdGlueV9zX2NoaWxkX2luZGVwZW5kZW50X3dvbWVuX3B0XzFfb2ZmaWNpYWxfdmlkZW9fLTE5NzE3NDY0MTQzMzA1NzIyMTA=.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Date">04.05.2022</Metadata>
+    <Metadata name="dc.Description">Song in audio format</Metadata>
+    <Metadata name="dc.Format">mp3</Metadata>
+    <Metadata name="dc.Language">English</Metadata>
+    <Metadata name="dc.Title">Independent women</Metadata>
+    <Metadata name="dc.Type">audio</Metadata>
+    <Metadata name="Title">destiny s child independent women pt 1 official video -1971746414330572210</Metadata>
+    <Metadata name="Identifier">HASH7b7f37910f3ad2e68e227b</Metadata>
+    <Metadata name="lastmodified">1651680619</Metadata>
+    <Metadata name="lastmodifieddate">20220504</Metadata>
+    <Metadata name="oailastmodified">1651682204</Metadata>
+    <Metadata name="oailastmodifieddate">20220504</Metadata>
+    <Metadata name="assocfilepath">HASH7b7f.dir</Metadata>
+    <Metadata name="gsdlassocfile">ZGVzdGlueV9zX2NoaWxkX2luZGVwZW5kZW50X3dvbWVuX3B0XzFfb2ZmaWNpYWxfdmlkZW9fLTE5NzE3NDY0MTQzMzA1NzIyMTA=.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>
